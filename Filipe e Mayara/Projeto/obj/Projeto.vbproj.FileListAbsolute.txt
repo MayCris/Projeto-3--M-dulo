@@ -1,0 +1,303 @@
+C:\Users\Filipe\Desktop\Projetos - todos\Projeto MAYARA 28-08-09 - fim aula\Projeto\obj\Debug\Projeto.exe
+C:\Users\Filipe\Desktop\Projetos - todos\Projeto MAYARA 28-08-09 - fim aula\Projeto\obj\Debug\Projeto.xml
+C:\Users\Filipe\Desktop\Projetos - todos\Projeto MAYARA 28-08-09 - fim aula\Projeto\obj\Debug\Projeto.pdb
+C:\Users\Filipe\Desktop\Projetos - todos\Projeto MAYARA 28-08-09 - fim aula\Projeto\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Filipe\Desktop\Projetos - todos\Projeto MAYARA 28-08-09 - fim aula\Projeto\obj\Debug\WindowsApplication1.Frm_fornecedores.resources
+C:\Users\Filipe\Desktop\Projetos - todos\Projeto MAYARA 28-08-09 - fim aula\Projeto\obj\Debug\WindowsApplication1.f_funcionarios.resources
+C:\Users\Filipe\Desktop\Projetos - todos\Projeto MAYARA 28-08-09 - fim aula\Projeto\obj\Debug\WindowsApplication1.MDIProjeto.resources
+C:\Users\Filipe\Desktop\Projetos - todos\Projeto MAYARA 28-08-09 - fim aula\Projeto\obj\Debug\WindowsApplication1.filmes_midias.resources
+C:\Users\Filipe\Desktop\Projetos - todos\Projeto MAYARA 28-08-09 - fim aula\Projeto\obj\Debug\WindowsApplication1.Frm_clientes.resources
+C:\Users\Filipe\Desktop\Projetos - todos\Projeto MAYARA 28-08-09 - fim aula\Projeto\obj\Debug\WindowsApplication1.Frm_funcionarios.resources
+C:\Users\Filipe\Desktop\Projetos - todos\Projeto MAYARA 28-08-09 - fim aula\Projeto\obj\Debug\WindowsApplication1.Frm_filmes_midias.resources
+C:\Users\Filipe\Desktop\Projetos - todos\Projeto MAYARA 28-08-09 - fim aula\Projeto\obj\Debug\WindowsApplication1.locacoes.resources
+C:\Users\Filipe\Desktop\Projetos - todos\Projeto MAYARA 28-08-09 - fim aula\Projeto\obj\Debug\WindowsApplication1.reservas.resources
+C:\Users\Filipe\Desktop\Projetos - todos\Projeto MAYARA 28-08-09 - fim aula\Projeto\obj\Debug\WindowsApplication1.Clientes.resources
+C:\Users\Filipe\Desktop\Projetos - todos\Projeto MAYARA 28-08-09 - fim aula\Projeto\obj\Debug\WindowsApplication1.Fornecedores.resources
+C:\Users\Filipe\Desktop\Projetos - todos\Projeto MAYARA 28-08-09 - fim aula\Projeto\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Filipe\Desktop\Projetos - todos\Projeto MAYARA 28-08-09 - fim aula\Projeto\obj\Debug\Projeto.vbproj.GenerateResource.Cache
+C:\Users\Filipe\Desktop\Projetos - todos\Projeto MAYARA 28-08-09 - fim aula\Projeto\bin\Debug\Projeto.exe
+C:\Users\Filipe\Desktop\Projetos - todos\Projeto MAYARA 28-08-09 - fim aula\Projeto\bin\Debug\Projeto.pdb
+C:\Users\Filipe\Desktop\Projetos - todos\Projeto MAYARA 28-08-09 - fim aula\Projeto\bin\Debug\Projeto.xml
+C:\Users\Filipe\Desktop\Projetos - todos\Projeto MAYARA 28-08-09 - fim aula\Projeto\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Filipe\Desktop\Projeto MAYARA 01-09-09 - fim aula certo\Projeto\obj\Debug\Projeto.exe
+C:\Users\Filipe\Desktop\Projeto MAYARA 01-09-09 - fim aula certo\Projeto\obj\Debug\Projeto.xml
+C:\Users\Filipe\Desktop\Projeto MAYARA 01-09-09 - fim aula certo\Projeto\obj\Debug\Projeto.pdb
+C:\Users\Filipe\Desktop\Projeto MAYARA 02-09-09\Projeto\obj\Debug\Projeto.exe
+C:\Users\Filipe\Desktop\Projeto MAYARA 02-09-09\Projeto\obj\Debug\Projeto.xml
+C:\Users\Filipe\Desktop\Projeto MAYARA 02-09-09\Projeto\obj\Debug\Projeto.pdb
+C:\Users\Filipe\Desktop\Projeto MAYARA 02-09-09\Projeto\bin\Debug\Projeto.exe
+C:\Users\Filipe\Desktop\Projeto MAYARA 02-09-09\Projeto\bin\Debug\Projeto.pdb
+C:\Users\Filipe\Desktop\Projeto MAYARA 02-09-09\Projeto\bin\Debug\Projeto.xml
+C:\Users\Filipe\Desktop\Projeto MAYARA 02-09-09\Projeto\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Filipe\Desktop\Projeto MAYARA 02-09-09\Projeto\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Filipe\Desktop\Projeto MAYARA 02-09-09\Projeto\obj\Debug\WindowsApplication1.Frm_fornecedores.resources
+C:\Users\Filipe\Desktop\Projeto MAYARA 02-09-09\Projeto\obj\Debug\WindowsApplication1.Frm_cliente_adcional.resources
+C:\Users\Filipe\Desktop\Projeto MAYARA 02-09-09\Projeto\obj\Debug\WindowsApplication1.f_funcionarios.resources
+C:\Users\Filipe\Desktop\Projeto MAYARA 02-09-09\Projeto\obj\Debug\WindowsApplication1.MDIProjeto.resources
+C:\Users\Filipe\Desktop\Projeto MAYARA 02-09-09\Projeto\obj\Debug\WindowsApplication1.filmes_midias.resources
+C:\Users\Filipe\Desktop\Projeto MAYARA 02-09-09\Projeto\obj\Debug\WindowsApplication1.Frm_cliente_titular.resources
+C:\Users\Filipe\Desktop\Projeto MAYARA 02-09-09\Projeto\obj\Debug\WindowsApplication1.Frm_funcionarios.resources
+C:\Users\Filipe\Desktop\Projeto MAYARA 02-09-09\Projeto\obj\Debug\WindowsApplication1.Frm_filmes_midias.resources
+C:\Users\Filipe\Desktop\Projeto MAYARA 02-09-09\Projeto\obj\Debug\WindowsApplication1.locacoes.resources
+C:\Users\Filipe\Desktop\Projeto MAYARA 02-09-09\Projeto\obj\Debug\WindowsApplication1.reservas.resources
+C:\Users\Filipe\Desktop\Projeto MAYARA 02-09-09\Projeto\obj\Debug\WindowsApplication1.Clientes.resources
+C:\Users\Filipe\Desktop\Projeto MAYARA 02-09-09\Projeto\obj\Debug\WindowsApplication1.Fornecedores.resources
+C:\Users\Filipe\Desktop\Projeto MAYARA 02-09-09\Projeto\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Filipe\Desktop\Projeto MAYARA 02-09-09\Projeto\obj\Debug\Projeto.vbproj.GenerateResource.Cache
+G:\Mayara\Projeto MAYARA\Projeto\obj\Debug\Projeto.exe
+G:\Mayara\Projeto MAYARA\Projeto\obj\Debug\Projeto.xml
+G:\Mayara\Projeto MAYARA\Projeto\obj\Debug\Projeto.pdb
+C:\Users\Filipe\Desktop\Mayara\Mayara\Projeto MAYARA\Projeto\obj\Debug\Projeto.exe
+C:\Users\Filipe\Desktop\Mayara\Mayara\Projeto MAYARA\Projeto\obj\Debug\Projeto.xml
+C:\Users\Filipe\Desktop\Mayara\Mayara\Projeto MAYARA\Projeto\obj\Debug\Projeto.pdb
+C:\Users\Filipe\Desktop\Projeto MAYARA\Projeto\obj\Debug\Projeto.exe
+C:\Users\Filipe\Desktop\Projeto MAYARA\Projeto\obj\Debug\Projeto.xml
+C:\Users\Filipe\Desktop\Projeto MAYARA\Projeto\obj\Debug\Projeto.pdb
+C:\Users\Filipe\Desktop\Projeto MAYARA\Projeto\bin\Debug\Projeto.exe
+C:\Users\Filipe\Desktop\Projeto MAYARA\Projeto\bin\Debug\Projeto.pdb
+C:\Users\Filipe\Desktop\Projeto MAYARA\Projeto\bin\Debug\Projeto.xml
+C:\Users\Filipe\Desktop\Projeto MAYARA\Projeto\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Filipe\Desktop\Projeto MAYARA\Projeto\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Filipe\Desktop\Projeto MAYARA\Projeto\obj\Debug\WindowsApplication1.Frm_fornecedores.resources
+C:\Users\Filipe\Desktop\Projeto MAYARA\Projeto\obj\Debug\WindowsApplication1.Frm_cliente_adcional.resources
+C:\Users\Filipe\Desktop\Projeto MAYARA\Projeto\obj\Debug\WindowsApplication1.f_funcionarios.resources
+C:\Users\Filipe\Desktop\Projeto MAYARA\Projeto\obj\Debug\WindowsApplication1.MDIProjeto.resources
+C:\Users\Filipe\Desktop\Projeto MAYARA\Projeto\obj\Debug\WindowsApplication1.filmes_midias.resources
+C:\Users\Filipe\Desktop\Projeto MAYARA\Projeto\obj\Debug\WindowsApplication1.Frm_cliente_titular.resources
+C:\Users\Filipe\Desktop\Projeto MAYARA\Projeto\obj\Debug\WindowsApplication1.Frm_funcionarios.resources
+C:\Users\Filipe\Desktop\Projeto MAYARA\Projeto\obj\Debug\WindowsApplication1.Frm_filmes_midias.resources
+C:\Users\Filipe\Desktop\Projeto MAYARA\Projeto\obj\Debug\WindowsApplication1.locacoes.resources
+C:\Users\Filipe\Desktop\Projeto MAYARA\Projeto\obj\Debug\WindowsApplication1.reservas.resources
+C:\Users\Filipe\Desktop\Projeto MAYARA\Projeto\obj\Debug\WindowsApplication1.Clientes.resources
+C:\Users\Filipe\Desktop\Projeto MAYARA\Projeto\obj\Debug\WindowsApplication1.Fornecedores.resources
+C:\Users\Filipe\Desktop\Projeto MAYARA\Projeto\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Filipe\Desktop\Projeto MAYARA\Projeto\obj\Debug\Projeto.vbproj.GenerateResource.Cache
+C:\Users\Filipe\Desktop\Mayara\Projeto\obj\Debug\Projeto.exe
+C:\Users\Filipe\Desktop\Mayara\Projeto\obj\Debug\Projeto.xml
+C:\Users\Filipe\Desktop\Mayara\Projeto\obj\Debug\Projeto.pdb
+E:\Mayara\Projeto\obj\Debug\Projeto.exe
+E:\Mayara\Projeto\obj\Debug\Projeto.xml
+E:\Mayara\Projeto\obj\Debug\Projeto.pdb
+J:\Mayara\Projeto\obj\Debug\Projeto.exe
+J:\Mayara\Projeto\obj\Debug\Projeto.xml
+J:\Mayara\Projeto\obj\Debug\Projeto.pdb
+E:\Mayara\Projeto\bin\Debug\Projeto.exe
+E:\Mayara\Projeto\bin\Debug\Projeto.pdb
+E:\Mayara\Projeto\bin\Debug\Projeto.xml
+E:\Mayara\Projeto\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Mayara\Projeto\obj\Debug\ResolveAssemblyReference.cache
+E:\Mayara\Projeto\obj\Debug\WindowsApplication1.Frm_fornecedores.resources
+E:\Mayara\Projeto\obj\Debug\WindowsApplication1.Frm_cliente_adcional.resources
+E:\Mayara\Projeto\obj\Debug\WindowsApplication1.f_funcionarios.resources
+E:\Mayara\Projeto\obj\Debug\WindowsApplication1.MDIProjeto.resources
+E:\Mayara\Projeto\obj\Debug\WindowsApplication1.filmes_midias.resources
+E:\Mayara\Projeto\obj\Debug\WindowsApplication1.Frm_cliente_titular.resources
+E:\Mayara\Projeto\obj\Debug\WindowsApplication1.Frm_funcionarios.resources
+E:\Mayara\Projeto\obj\Debug\WindowsApplication1.Frm_filmes_midias.resources
+E:\Mayara\Projeto\obj\Debug\WindowsApplication1.locacoes.resources
+E:\Mayara\Projeto\obj\Debug\WindowsApplication1.reservas.resources
+E:\Mayara\Projeto\obj\Debug\WindowsApplication1.Clientes.resources
+E:\Mayara\Projeto\obj\Debug\WindowsApplication1.Fornecedores.resources
+E:\Mayara\Projeto\obj\Debug\WindowsApplication1.Resources.resources
+E:\Mayara\Projeto\obj\Debug\Projeto.vbproj.GenerateResource.Cache
+E:\15-09-2009\Projeto\obj\Debug\Projeto.exe
+E:\15-09-2009\Projeto\obj\Debug\Projeto.xml
+E:\15-09-2009\Projeto\obj\Debug\Projeto.pdb
+E:\15-09-2009\Projeto\bin\Debug\Projeto.exe
+E:\15-09-2009\Projeto\bin\Debug\Projeto.pdb
+E:\15-09-2009\Projeto\bin\Debug\Projeto.xml
+E:\15-09-2009\Projeto\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\15-09-2009\Projeto\obj\Debug\ResolveAssemblyReference.cache
+E:\15-09-2009\Projeto\obj\Debug\WindowsApplication1.Frm_fornecedores.resources
+E:\15-09-2009\Projeto\obj\Debug\WindowsApplication1.Frm_cliente_adcional.resources
+E:\15-09-2009\Projeto\obj\Debug\WindowsApplication1.Frm_Midias.resources
+E:\15-09-2009\Projeto\obj\Debug\WindowsApplication1.f_funcionarios.resources
+E:\15-09-2009\Projeto\obj\Debug\WindowsApplication1.MDIProjeto.resources
+E:\15-09-2009\Projeto\obj\Debug\WindowsApplication1.filmes_midias.resources
+E:\15-09-2009\Projeto\obj\Debug\WindowsApplication1.Frm_cliente_titular.resources
+E:\15-09-2009\Projeto\obj\Debug\WindowsApplication1.Frm_funcionarios.resources
+E:\15-09-2009\Projeto\obj\Debug\WindowsApplication1.Frm_filmes.resources
+E:\15-09-2009\Projeto\obj\Debug\WindowsApplication1.locacoes.resources
+E:\15-09-2009\Projeto\obj\Debug\WindowsApplication1.reservas.resources
+E:\15-09-2009\Projeto\obj\Debug\WindowsApplication1.Clientes.resources
+E:\15-09-2009\Projeto\obj\Debug\WindowsApplication1.Fornecedores.resources
+E:\15-09-2009\Projeto\obj\Debug\WindowsApplication1.Resources.resources
+E:\15-09-2009\Projeto\obj\Debug\Projeto.vbproj.GenerateResource.Cache
+E:\17-09-2009\Projeto\obj\Debug\Projeto.exe
+E:\17-09-2009\Projeto\obj\Debug\Projeto.xml
+E:\17-09-2009\Projeto\obj\Debug\Projeto.pdb
+E:\17-09-2009\Projeto\bin\Debug\Projeto.exe
+E:\17-09-2009\Projeto\bin\Debug\Projeto.pdb
+E:\17-09-2009\Projeto\bin\Debug\Projeto.xml
+E:\17-09-2009\Projeto\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\17-09-2009\Projeto\obj\Debug\ResolveAssemblyReference.cache
+E:\17-09-2009\Projeto\obj\Debug\WindowsApplication1.Frm_fornecedores.resources
+E:\17-09-2009\Projeto\obj\Debug\WindowsApplication1.Frm_cliente_adcional.resources
+E:\17-09-2009\Projeto\obj\Debug\WindowsApplication1.Frm_Midias.resources
+E:\17-09-2009\Projeto\obj\Debug\WindowsApplication1.f_funcionarios.resources
+E:\17-09-2009\Projeto\obj\Debug\WindowsApplication1.MDIProjeto.resources
+E:\17-09-2009\Projeto\obj\Debug\WindowsApplication1.filmes_midias.resources
+E:\17-09-2009\Projeto\obj\Debug\WindowsApplication1.Frm_cliente_titular.resources
+E:\17-09-2009\Projeto\obj\Debug\WindowsApplication1.Frm_funcionarios.resources
+E:\17-09-2009\Projeto\obj\Debug\WindowsApplication1.Frm_filmes.resources
+E:\17-09-2009\Projeto\obj\Debug\WindowsApplication1.locacoes.resources
+E:\17-09-2009\Projeto\obj\Debug\WindowsApplication1.reservas.resources
+E:\17-09-2009\Projeto\obj\Debug\WindowsApplication1.Clientes.resources
+E:\17-09-2009\Projeto\obj\Debug\WindowsApplication1.Fornecedores.resources
+E:\17-09-2009\Projeto\obj\Debug\WindowsApplication1.Resources.resources
+E:\17-09-2009\Projeto\obj\Debug\Projeto.vbproj.GenerateResource.Cache
+E:\18-09-2009\Projeto\obj\Debug\Projeto.exe
+E:\18-09-2009\Projeto\obj\Debug\Projeto.xml
+E:\18-09-2009\Projeto\obj\Debug\Projeto.pdb
+E:\18-09-2009\Projeto\bin\Debug\Projeto.exe
+E:\18-09-2009\Projeto\bin\Debug\Projeto.pdb
+E:\18-09-2009\Projeto\bin\Debug\Projeto.xml
+E:\18-09-2009\Projeto\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\18-09-2009\Projeto\obj\Debug\ResolveAssemblyReference.cache
+E:\18-09-2009\Projeto\obj\Debug\WindowsApplication1.Frm_fornecedores.resources
+E:\18-09-2009\Projeto\obj\Debug\WindowsApplication1.Frm_cliente_adcional.resources
+E:\18-09-2009\Projeto\obj\Debug\WindowsApplication1.Frm_Midias.resources
+E:\18-09-2009\Projeto\obj\Debug\WindowsApplication1.f_funcionarios.resources
+E:\18-09-2009\Projeto\obj\Debug\WindowsApplication1.MDIProjeto.resources
+E:\18-09-2009\Projeto\obj\Debug\WindowsApplication1.filmes_midias.resources
+E:\18-09-2009\Projeto\obj\Debug\WindowsApplication1.Frm_cliente_titular.resources
+E:\18-09-2009\Projeto\obj\Debug\WindowsApplication1.Frm_funcionarios.resources
+E:\18-09-2009\Projeto\obj\Debug\WindowsApplication1.Frm_filmes.resources
+E:\18-09-2009\Projeto\obj\Debug\WindowsApplication1.locacoes.resources
+E:\18-09-2009\Projeto\obj\Debug\WindowsApplication1.reservas.resources
+E:\18-09-2009\Projeto\obj\Debug\WindowsApplication1.Clientes.resources
+E:\18-09-2009\Projeto\obj\Debug\WindowsApplication1.Fornecedores.resources
+E:\18-09-2009\Projeto\obj\Debug\WindowsApplication1.Resources.resources
+E:\18-09-2009\Projeto\obj\Debug\Projeto.vbproj.GenerateResource.Cache
+E:\22-09-2009\Projeto\obj\Debug\Projeto.exe
+E:\22-09-2009\Projeto\obj\Debug\Projeto.xml
+E:\22-09-2009\Projeto\obj\Debug\Projeto.pdb
+E:\22-09-2009\Projeto\bin\Debug\Projeto.exe
+E:\22-09-2009\Projeto\bin\Debug\Projeto.pdb
+E:\22-09-2009\Projeto\bin\Debug\Projeto.xml
+E:\22-09-2009\Projeto\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\22-09-2009\Projeto\obj\Debug\ResolveAssemblyReference.cache
+E:\22-09-2009\Projeto\obj\Debug\WindowsApplication1.Frm_fornecedores.resources
+E:\22-09-2009\Projeto\obj\Debug\WindowsApplication1.Frm_cliente_adcional.resources
+E:\22-09-2009\Projeto\obj\Debug\WindowsApplication1.Frm_Midias.resources
+E:\22-09-2009\Projeto\obj\Debug\WindowsApplication1.Form1.resources
+E:\22-09-2009\Projeto\obj\Debug\WindowsApplication1.f_funcionarios.resources
+E:\22-09-2009\Projeto\obj\Debug\WindowsApplication1.MDIProjeto.resources
+E:\22-09-2009\Projeto\obj\Debug\WindowsApplication1.filmes_midias.resources
+E:\22-09-2009\Projeto\obj\Debug\WindowsApplication1.Frm_cliente_titular.resources
+E:\22-09-2009\Projeto\obj\Debug\WindowsApplication1.Frm_funcionarios.resources
+E:\22-09-2009\Projeto\obj\Debug\WindowsApplication1.Frm_filmes.resources
+E:\22-09-2009\Projeto\obj\Debug\WindowsApplication1.locacoes.resources
+E:\22-09-2009\Projeto\obj\Debug\WindowsApplication1.reservas.resources
+E:\22-09-2009\Projeto\obj\Debug\WindowsApplication1.Clientes.resources
+E:\22-09-2009\Projeto\obj\Debug\WindowsApplication1.Fornecedores.resources
+E:\22-09-2009\Projeto\obj\Debug\WindowsApplication1.Resources.resources
+E:\22-09-2009\Projeto\obj\Debug\Projeto.vbproj.GenerateResource.Cache
+E:\23-09-2009 noite\Projeto\obj\Debug\Projeto.exe
+E:\23-09-2009 noite\Projeto\obj\Debug\Projeto.xml
+E:\23-09-2009 noite\Projeto\obj\Debug\Projeto.pdb
+E:\23-09-2009 noite\Projeto\bin\Debug\Projeto.exe
+E:\23-09-2009 noite\Projeto\bin\Debug\Projeto.pdb
+E:\23-09-2009 noite\Projeto\bin\Debug\Projeto.xml
+E:\23-09-2009 noite\Projeto\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\23-09-2009 noite\Projeto\obj\Debug\ResolveAssemblyReference.cache
+E:\23-09-2009 noite\Projeto\obj\Debug\WindowsApplication1.Frm_fornecedores.resources
+E:\23-09-2009 noite\Projeto\obj\Debug\WindowsApplication1.Frm_Midias.resources
+E:\23-09-2009 noite\Projeto\obj\Debug\WindowsApplication1.Frm_locacao.resources
+E:\23-09-2009 noite\Projeto\obj\Debug\WindowsApplication1.f_funcionarios.resources
+E:\23-09-2009 noite\Projeto\obj\Debug\WindowsApplication1.MDIProjeto.resources
+E:\23-09-2009 noite\Projeto\obj\Debug\WindowsApplication1.filmes_midias.resources
+E:\23-09-2009 noite\Projeto\obj\Debug\WindowsApplication1.Frm_cliente_titular.resources
+E:\23-09-2009 noite\Projeto\obj\Debug\WindowsApplication1.Frm_funcionarios.resources
+E:\23-09-2009 noite\Projeto\obj\Debug\WindowsApplication1.Frm_filmes.resources
+E:\23-09-2009 noite\Projeto\obj\Debug\WindowsApplication1.Frm_reserva.resources
+E:\23-09-2009 noite\Projeto\obj\Debug\WindowsApplication1.Clientes.resources
+E:\23-09-2009 noite\Projeto\obj\Debug\WindowsApplication1.Fornecedores.resources
+E:\23-09-2009 noite\Projeto\obj\Debug\WindowsApplication1.Resources.resources
+E:\23-09-2009 noite\Projeto\obj\Debug\Projeto.vbproj.GenerateResource.Cache
+E:\23-09-2009 noite\Projeto\obj\Debug\WindowsApplication1.Frm_cliente_adicional.resources
+E:\25-09-2009\Projeto\obj\Debug\Projeto.exe
+E:\25-09-2009\Projeto\obj\Debug\Projeto.xml
+E:\25-09-2009\Projeto\obj\Debug\Projeto.pdb
+E:\25-09-2009\Projeto\bin\Debug\Projeto.exe
+E:\25-09-2009\Projeto\bin\Debug\Projeto.pdb
+E:\25-09-2009\Projeto\bin\Debug\Projeto.xml
+E:\25-09-2009\Projeto\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\25-09-2009\Projeto\obj\Debug\ResolveAssemblyReference.cache
+E:\25-09-2009\Projeto\obj\Debug\WindowsApplication1.Frm_fornecedores.resources
+E:\25-09-2009\Projeto\obj\Debug\WindowsApplication1.Frm_cliente_adicional.resources
+E:\25-09-2009\Projeto\obj\Debug\WindowsApplication1.Frm_Midias.resources
+E:\25-09-2009\Projeto\obj\Debug\WindowsApplication1.Frm_locacao.resources
+E:\25-09-2009\Projeto\obj\Debug\WindowsApplication1.f_funcionarios.resources
+E:\25-09-2009\Projeto\obj\Debug\WindowsApplication1.Login.resources
+E:\25-09-2009\Projeto\obj\Debug\WindowsApplication1.MDIProjeto.resources
+E:\25-09-2009\Projeto\obj\Debug\WindowsApplication1.filmes_midias.resources
+E:\25-09-2009\Projeto\obj\Debug\WindowsApplication1.Frm_cliente_titular.resources
+E:\25-09-2009\Projeto\obj\Debug\WindowsApplication1.Frm_funcionarios.resources
+E:\25-09-2009\Projeto\obj\Debug\WindowsApplication1.Frm_filmes.resources
+E:\25-09-2009\Projeto\obj\Debug\WindowsApplication1.Frm_reserva.resources
+E:\25-09-2009\Projeto\obj\Debug\WindowsApplication1.Clientes.resources
+E:\25-09-2009\Projeto\obj\Debug\WindowsApplication1.Fornecedores.resources
+E:\25-09-2009\Projeto\obj\Debug\WindowsApplication1.Resources.resources
+E:\25-09-2009\Projeto\obj\Debug\Projeto.vbproj.GenerateResource.Cache
+E:\25-09-2009\Projeto\obj\Debug\WindowsApplication1.Frm_Consulta_locacao.resources
+E:\25-09-2009\Projeto\obj\Debug\WindowsApplication1.Frm_Consultas_reservas.resources
+E:\27-09-2009\Projeto\obj\Debug\Projeto.exe
+E:\27-09-2009\Projeto\obj\Debug\Projeto.xml
+E:\27-09-2009\Projeto\obj\Debug\Projeto.pdb
+E:\27-09-2009\Projeto\bin\Debug\Projeto.exe
+E:\27-09-2009\Projeto\bin\Debug\Projeto.pdb
+E:\27-09-2009\Projeto\bin\Debug\Projeto.xml
+E:\27-09-2009\Projeto\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\27-09-2009\Projeto\obj\Debug\ResolveAssemblyReference.cache
+E:\27-09-2009\Projeto\obj\Debug\WindowsApplication1.Frm_fornecedores.resources
+E:\27-09-2009\Projeto\obj\Debug\WindowsApplication1.Frm_cliente_adicional.resources
+E:\27-09-2009\Projeto\obj\Debug\WindowsApplication1.Frm_Midias.resources
+E:\27-09-2009\Projeto\obj\Debug\WindowsApplication1.Frm_Consulta_locacao.resources
+E:\27-09-2009\Projeto\obj\Debug\WindowsApplication1.Frm_Consultas_reservas.resources
+E:\27-09-2009\Projeto\obj\Debug\WindowsApplication1.Frm_locacao.resources
+E:\27-09-2009\Projeto\obj\Debug\WindowsApplication1.f_funcionarios.resources
+E:\27-09-2009\Projeto\obj\Debug\WindowsApplication1.Login.resources
+E:\27-09-2009\Projeto\obj\Debug\WindowsApplication1.MDIProjeto.resources
+E:\27-09-2009\Projeto\obj\Debug\WindowsApplication1.filmes_midias.resources
+E:\27-09-2009\Projeto\obj\Debug\WindowsApplication1.Frm_cliente_titular.resources
+E:\27-09-2009\Projeto\obj\Debug\WindowsApplication1.Frm_funcionarios.resources
+E:\27-09-2009\Projeto\obj\Debug\WindowsApplication1.Frm_filmes.resources
+E:\27-09-2009\Projeto\obj\Debug\WindowsApplication1.Frm_reserva.resources
+E:\27-09-2009\Projeto\obj\Debug\WindowsApplication1.Clientes.resources
+E:\27-09-2009\Projeto\obj\Debug\WindowsApplication1.Fornecedores.resources
+E:\27-09-2009\Projeto\obj\Debug\WindowsApplication1.Resources.resources
+E:\27-09-2009\Projeto\obj\Debug\Projeto.vbproj.GenerateResource.Cache
+G:\Documents and Settings\Filipe\Desktop\Mayara e Filipe\Filipe e Mayara\Projeto\obj\Release\Projeto.exe
+G:\Documents and Settings\Filipe\Desktop\Mayara e Filipe\Filipe e Mayara\Projeto\obj\Release\Projeto.xml
+G:\Documents and Settings\Filipe\Desktop\Mayara e Filipe\Filipe e Mayara\Projeto\obj\Release\Projeto.pdb
+E:\Senac\Projetos\Projeto 3º Módulo\Filipe e Mayara\Projeto\obj\Debug\Projeto.exe
+E:\Senac\Projetos\Projeto 3º Módulo\Filipe e Mayara\Projeto\obj\Debug\Projeto.xml
+E:\Senac\Projetos\Projeto 3º Módulo\Filipe e Mayara\Projeto\obj\Debug\Projeto.pdb
+E:\Senac\Projetos\Projeto 3º Módulo\Filipe e Mayara\Projeto\bin\Debug\Projeto.exe.manifest
+E:\Senac\Projetos\Projeto 3º Módulo\Filipe e Mayara\Projeto\bin\Debug\Projeto.application
+E:\Senac\Projetos\Projeto 3º Módulo\Filipe e Mayara\Projeto\bin\Debug\Projeto.exe
+E:\Senac\Projetos\Projeto 3º Módulo\Filipe e Mayara\Projeto\bin\Debug\Projeto.pdb
+E:\Senac\Projetos\Projeto 3º Módulo\Filipe e Mayara\Projeto\bin\Debug\Projeto.xml
+E:\Senac\Projetos\Projeto 3º Módulo\Filipe e Mayara\Projeto\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Senac\Projetos\Projeto 3º Módulo\Filipe e Mayara\Projeto\obj\Debug\ResolveAssemblyReference.cache
+E:\Senac\Projetos\Projeto 3º Módulo\Filipe e Mayara\Projeto\obj\Debug\WindowsApplication1.Frm_fornecedores.resources
+E:\Senac\Projetos\Projeto 3º Módulo\Filipe e Mayara\Projeto\obj\Debug\WindowsApplication1.Frm_cliente_adicional.resources
+E:\Senac\Projetos\Projeto 3º Módulo\Filipe e Mayara\Projeto\obj\Debug\WindowsApplication1.Frm_Midias.resources
+E:\Senac\Projetos\Projeto 3º Módulo\Filipe e Mayara\Projeto\obj\Debug\WindowsApplication1.Frm_Consulta_locacao.resources
+E:\Senac\Projetos\Projeto 3º Módulo\Filipe e Mayara\Projeto\obj\Debug\WindowsApplication1.Frm_Consultas_reservas.resources
+E:\Senac\Projetos\Projeto 3º Módulo\Filipe e Mayara\Projeto\obj\Debug\WindowsApplication1.Frm_locacao.resources
+E:\Senac\Projetos\Projeto 3º Módulo\Filipe e Mayara\Projeto\obj\Debug\WindowsApplication1.f_funcionarios.resources
+E:\Senac\Projetos\Projeto 3º Módulo\Filipe e Mayara\Projeto\obj\Debug\WindowsApplication1.Login.resources
+E:\Senac\Projetos\Projeto 3º Módulo\Filipe e Mayara\Projeto\obj\Debug\WindowsApplication1.MDIProjeto.resources
+E:\Senac\Projetos\Projeto 3º Módulo\Filipe e Mayara\Projeto\obj\Debug\WindowsApplication1.filmes_midias.resources
+E:\Senac\Projetos\Projeto 3º Módulo\Filipe e Mayara\Projeto\obj\Debug\WindowsApplication1.Frm_cliente_titular.resources
+E:\Senac\Projetos\Projeto 3º Módulo\Filipe e Mayara\Projeto\obj\Debug\WindowsApplication1.Frm_funcionarios.resources
+E:\Senac\Projetos\Projeto 3º Módulo\Filipe e Mayara\Projeto\obj\Debug\WindowsApplication1.Frm_filmes.resources
+E:\Senac\Projetos\Projeto 3º Módulo\Filipe e Mayara\Projeto\obj\Debug\WindowsApplication1.Frm_reserva.resources
+E:\Senac\Projetos\Projeto 3º Módulo\Filipe e Mayara\Projeto\obj\Debug\WindowsApplication1.Clientes.resources
+E:\Senac\Projetos\Projeto 3º Módulo\Filipe e Mayara\Projeto\obj\Debug\WindowsApplication1.Fornecedores.resources
+E:\Senac\Projetos\Projeto 3º Módulo\Filipe e Mayara\Projeto\obj\Debug\WindowsApplication1.Resources.resources
+E:\Senac\Projetos\Projeto 3º Módulo\Filipe e Mayara\Projeto\obj\Debug\Projeto.vbproj.GenerateResource.Cache
+E:\Senac\Projetos\Projeto 3º Módulo\Filipe e Mayara\Projeto\obj\Debug\Projeto.exe.manifest
+E:\Senac\Projetos\Projeto 3º Módulo\Filipe e Mayara\Projeto\obj\Debug\Projeto.application

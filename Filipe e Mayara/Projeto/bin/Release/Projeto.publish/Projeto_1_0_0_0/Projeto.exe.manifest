@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <asmv1:assemblyIdentity name="Projeto.exe" version="1.0.0.0" publicKeyToken="c3ae4f68db3f9d18" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Projeto" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Projeto.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="4" minorVersion="10" buildNumber="0" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Microsoft.Practices.EnterpriseLibrary.Data.dll" size="90112">
+      <assemblyIdentity name="Microsoft.Practices.EnterpriseLibrary.Data" version="3.1.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>x2aG19ct/GrKnnnj8fw9LYcQCj8=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Projeto.exe" size="319488">
+      <assemblyIdentity name="Projeto" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>wkoNhpnjT6AFdcSsNZWzsMOH2Kk=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Microsoft.Practices.EnterpriseLibrary.Data.dll" size="90112">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>x2aG19ct/GrKnnnj8fw9LYcQCj8=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=EDUCACIONAL\mayara.cspedroso" issuerKeyHash="96698aced59471bf04b2436e561f1b92453a2ffd" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>1JVOBV5oZpwsaH46/9tfdGaeHmo=</DigestValue></Reference></SignedInfo><SignatureValue>YVFSWO/0aMDG1O/WxZ5FdBitoBUI1SWWk2Vwq9/JROrHYjCKoDDVnN616SK8o2Y3L1w6o5cfQfDmcIRGLwbA1GDVKX0eqVsjzbwK7b7y4TrcieRc/hoaBM1Cbj6iSX2IxRHZAKRC3cXPbJw2w3gwdTPDJ45lcpCjEvm9YmePmf8=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>idmWTgN5uwssuIERI8CMnCnJoqj7QKPPhIafIHdlrJz1F2aC6LkcGcct7ru1y4WNglqnDu96PPSrjgjs2TUNByPK7Cq/irnVqBs+gFmsOsh2CyG6tvLIBhWuXdqKYI82OCJd+YHMqfswVUWdDmY2RuRuikFJl3p84G5Uo+RmQ3c=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="6a1e9e66745fdbff3a7e682c9c66685e054e95d4" Description="" Url=""><as:assemblyIdentity name="Projeto.exe" version="1.0.0.0" publicKeyToken="c3ae4f68db3f9d18" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=EDUCACIONAL\mayara.cspedroso</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>pyQf3peHiZVnoqaHiENXPdXESs0=</DigestValue></Reference></SignedInfo><SignatureValue>J4V370hmiM8HbYpj55bhDkUK2IEOmNeql3+WF49HyD9l7PldsHMFq9F9PpZYNOjA5KObveebp0N3bVoZ0nHg0NOsvvf+/p+m6Ugc0emSHjZnzbv7wbJxlW5hkRSJmKIHumX7Sd9ZXcnX4sz0bR+mOfJmUaYuv3tfFUCHud2feX0=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>idmWTgN5uwssuIERI8CMnCnJoqj7QKPPhIafIHdlrJz1F2aC6LkcGcct7ru1y4WNglqnDu96PPSrjgjs2TUNByPK7Cq/irnVqBs+gFmsOsh2CyG6tvLIBhWuXdqKYI82OCJd+YHMqfswVUWdDmY2RuRuikFJl3p84G5Uo+RmQ3c=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIICCTCCAXKgAwIBAgIQjihSeH9bAaFPk+xecpRhajANBgkqhkiG9w0BAQUFADBDMUEwPwYDVQQDHjgARQBEAFUAQwBBAEMASQBPAE4AQQBMAFwAbQBhAHkAYQByAGEALgBjAHMAcABlAGQAcgBvAHMAbzAeFw0wOTA5MzAwMDIxMjJaFw0xMDA5MzAwNjIxMjJaMEMxQTA/BgNVBAMeOABFAEQAVQBDAEEAQwBJAE8ATgBBAEwAXABtAGEAeQBhAHIAYQAuAGMAcwBwAGUAZAByAG8AcwBvMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCJ2ZZOA3m7Cyy4gREjwIycKcmiqPtAo8+Ehp8gd2WsnPUXZoLouRwZxy3uu7XLhY2CWqcO73o89KuOCOzZNQ0HI8rsKr+KudWoGz6AWaw6yHYLIbq28sgGFa5d2opgjzY4Il35gcyp+zBVRZ0OZjZG5G6KQUmXenzgblSj5GZDdwIDAQABMA0GCSqGSIb3DQEBBQUAA4GBADPoR8q7Z2A8un4kytsH6aehnBnpwRAjowNYQYLfjKFZEkOVZnvJMSyl06JjXdBpDHCmojtbGsSkebC+c6nP/GBOD3Hn7M4h4HJ0Njx9lF6w5fZ44STnMNjRzwJSg9FPQWO8zw+Qc7591x5DlSWfbuR5GmYzgFs1pGJNkvIUkb3i</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

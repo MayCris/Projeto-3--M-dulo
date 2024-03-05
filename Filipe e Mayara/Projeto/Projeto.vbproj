@@ -1,0 +1,316 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{7A588235-CAD9-4E0C-B329-D1309F01B6B8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>WindowsApplication1.My.MyApplication</StartupObject>
+    <RootNamespace>WindowsApplication1</RootNamespace>
+    <AssemblyName>Projeto</AssemblyName>
+    <MyType>WindowsForms</MyType>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <ManifestCertificateThumbprint>63C78AD5F452292CE27ED314525A3DECA830E095</ManifestCertificateThumbprint>
+    <ManifestKeyFile>Projeto_TemporaryKey.pfx</ManifestKeyFile>
+    <GenerateManifests>true</GenerateManifests>
+    <SignManifests>true</SignManifests>
+    <PublishUrl>C:\Mayara\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Projeto.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Projeto.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.Data, Version=3.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Projeto_Vigati\Projeto_Vigati\Complementos\Microsoft.Practices.EnterpriseLibrary.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes\Class.Fornecedores.vb">
+    </Compile>
+    <Compile Include="Classes\Class.Funcionario.vb" />
+    <Compile Include="Classes\Class.Locacao_Cliente.vb" />
+    <Compile Include="Classes\Class.Locacao_filme.vb" />
+    <Compile Include="Classes\Class.Reserva_Cliente.vb" />
+    <Compile Include="Classes\Class.Reserva_Filme.vb" />
+    <Compile Include="Classes\Class.Usuario.vb" />
+    <Compile Include="Classes\Class.Consulta_locacao.vb" />
+    <Compile Include="Classes\Class.Consulta_reserva.vb" />
+    <Compile Include="Classes\ConexãoDB.vb" />
+    <Compile Include="Classes\Class.Mídias.vb" />
+    <Compile Include="Classes\Class.Filmes.vb" />
+    <Compile Include="Formulários\Formulários de Cadastro\Cadastro Fornecedores.Designer.vb">
+      <DependentUpon>Cadastro Fornecedores.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formulários\Formulários de Cadastro\Cadastro Fornecedores.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Classes\Class.Endereços.vb" />
+    <Compile Include="Classes\Class.Dados Pessoais.vb" />
+    <Compile Include="Classes\Class.Cliente Titular.vb" />
+    <Compile Include="Classes\Class.Cliente Adicional.vb">
+    </Compile>
+    <Compile Include="Formulários\Formulários de Cadastro\Cadastro Cliente Adicional.Designer.vb">
+      <DependentUpon>Cadastro Cliente Adicional.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formulários\Formulários de Cadastro\Cadastro Cliente Adicional.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulários\Formulários de Cadastro\Cadastro Midias.Designer.vb">
+      <DependentUpon>Cadastro Midias.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formulários\Formulários de Cadastro\Cadastro Midias.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulários\Formulários de Entrada\Consulta_locacao.Designer.vb">
+      <DependentUpon>Consulta_locacao.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formulários\Formulários de Entrada\Consulta_locacao.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulários\Formulários de Entrada\Consultas_Reservas.Designer.vb">
+      <DependentUpon>Consultas_Reservas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formulários\Formulários de Entrada\Consultas_Reservas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulários\Locacao.Designer.vb">
+      <DependentUpon>Locacao.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formulários\Locacao.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulários\Formulários de Entrada\Funcionarios.Designer.vb">
+      <DependentUpon>Funcionarios.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formulários\Formulários de Entrada\Funcionarios.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.vb">
+      <DependentUpon>Login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MDIProjeto.Designer.vb">
+      <DependentUpon>MDIProjeto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MDIProjeto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulários\Formulários de Entrada\Filmes_Mídias.Designer.vb">
+      <DependentUpon>Filmes_Mídias.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formulários\Formulários de Entrada\Filmes_Mídias.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulários\Formulários de Cadastro\Cadastro Cliente Titular.Designer.vb">
+      <DependentUpon>Cadastro Cliente Titular.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formulários\Formulários de Cadastro\Cadastro Cliente Titular.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulários\Formulários de Cadastro\Cadastro Funcionários.Designer.vb">
+      <DependentUpon>Cadastro Funcionários.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formulários\Formulários de Cadastro\Cadastro Funcionários.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulários\Formulários de Cadastro\Cadastro Filmes.Designer.vb">
+      <DependentUpon>Cadastro Filmes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formulários\Formulários de Cadastro\Cadastro Filmes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulários\Reserva.Designer.vb">
+      <DependentUpon>Reserva.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formulários\Reserva.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulários\Formulários de Entrada\Clientes.Designer.vb">
+      <DependentUpon>Clientes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formulários\Formulários de Entrada\Clientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulários\Formulários de Entrada\Fornecedores.Designer.vb">
+      <DependentUpon>Fornecedores.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formulários\Formulários de Entrada\Fornecedores.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Formulários\Formulários de Cadastro\Cadastro Fornecedores.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Cadastro Fornecedores.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulários\Formulários de Cadastro\Cadastro Cliente Adicional.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Cadastro Cliente Adicional.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulários\Formulários de Cadastro\Cadastro Midias.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Cadastro Midias.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulários\Formulários de Entrada\Consulta_locacao.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Consulta_locacao.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulários\Formulários de Entrada\Consultas_Reservas.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Consultas_Reservas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulários\Locacao.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Locacao.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulários\Formulários de Entrada\Funcionarios.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Funcionarios.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MDIProjeto.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>MDIProjeto.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulários\Formulários de Entrada\Filmes_Mídias.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Filmes_Mídias.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulários\Formulários de Cadastro\Cadastro Cliente Titular.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Cadastro Cliente Titular.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulários\Formulários de Cadastro\Cadastro Funcionários.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Cadastro Funcionários.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulários\Formulários de Cadastro\Cadastro Filmes.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Cadastro Filmes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulários\Reserva.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Reserva.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulários\Formulários de Entrada\Clientes.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Clientes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulários\Formulários de Entrada\Fornecedores.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Fornecedores.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Projeto_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Microsoft.Practices.EnterpriseLibrary.Data.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Sql.Server.Express.1.0">
+      <Visible>False</Visible>
+      <ProductName>SQL Server 2005 Express Edition</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
